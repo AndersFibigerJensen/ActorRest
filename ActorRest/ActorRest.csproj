@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary2">
+      <HintPath>..\..\..\..\OneDrive\Dokumenter\ClassLibrary2\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
